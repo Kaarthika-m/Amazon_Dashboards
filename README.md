@@ -57,5 +57,5 @@ The analysis covers key aspects of Amazon sales, including:
 - **Power BI**: For creating dashboards and visualizations.
 - **Dataset**: Amazon sales report dataset.
 
----
+![Screenshot (4)](https://github.com/user-attachments/assets/4760b687-b98c-4625-bc07-21aa2c6ad45c)
 
