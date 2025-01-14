@@ -59,3 +59,6 @@ The analysis covers key aspects of Amazon sales, including:
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/4760b687-b98c-4625-bc07-21aa2c6ad45c)
 
+![Screenshot (5)](https://github.com/user-attachments/assets/80223f61-669c-474f-9d9a-b511baacc6ca)
+
+
